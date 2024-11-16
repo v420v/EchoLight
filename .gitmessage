@@ -1,0 +1,22 @@
+
+# Commit Message Guidelines
+
+# Use one of the following prefixes for your commit messages:
+# feat:     A new feature
+# fix:      A bug fix
+# refactor: A code change that neither fixes a bug nor adds a feature
+# style:    Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc.)
+
+# Example Commit Messages:
+# feat: add new dark mode option to Echo theme
+# fix: correct typo in theme description
+# refactor: improve color contrast for better readability
+# style: update formatting in echo-color-theme.json
+
+# Please provide a detailed description of the changes in the commit body.
+# If the commit addresses an issue, include the issue number in the commit message.
+# For example: "fix: resolve issue with theme color not applying (#42)"
+
+# Commit messages should be in the present tense.
+# Example: "fix: resolve issue with theme color not applying"
+# Not: "fixed: resolved issue with theme color not applying"
