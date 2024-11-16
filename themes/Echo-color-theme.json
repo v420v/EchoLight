@@ -137,7 +137,6 @@
 				"support.function"
 			],
 			"settings": {
-				"fontStyle": "bold",
 				"foreground": "#19171c"
 			}
 		},
@@ -149,7 +148,6 @@
 				"support.class"
 			],
 			"settings": {
-				"fontStyle": "bold",
 				"foreground": "#19171c"
 			}
 		},

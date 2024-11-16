@@ -2,10 +2,10 @@
   "name": "echo",
   "displayName": "echo",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "EchoLight",
   "engines": {
-    "vscode": "^1.90.0"
+    "vscode": "^1.87.0"
   },
   "categories": [
     "Themes"
