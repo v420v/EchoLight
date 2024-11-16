@@ -1,6 +1,6 @@
 ## Echo Theme for VSCode
 
-Echo is a clean and elegant theme for Visual Studio Code, designed to provide a comfortable and visually appealing coding experience. The theme features a balanced color palette with a focus on readability and aesthetics.
+<img width="1420" alt="Screenshot 2024-11-16 at 18 23 30" src="https://github.com/user-attachments/assets/939417a9-4c57-46ef-9fa3-5bd65b727f83">
 
 ### Installation
 
