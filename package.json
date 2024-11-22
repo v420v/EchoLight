@@ -2,7 +2,7 @@
   "name": "echo",
   "displayName": "echo",
   "description": "",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "EchoLight",
   "engines": {
     "vscode": "^1.87.0"
